@@ -24,8 +24,8 @@ function getPages() {
 
     let pagePromises = [];
 
-    //for (let pageNo = 1; pageNo <= QURAN_TOTAL_PAGES; pageNo++) {
-    missingPages.forEach(pageNo=> {
+    for (let pageNo = 1; pageNo <= QURAN_TOTAL_PAGES; pageNo++) {
+    //missingPages.forEach(pageNo=> {
         
     
         options.url = QURAN_URL + pageNo
@@ -37,7 +37,7 @@ function getPages() {
 
                 if (error) throw new Error(error);
                 body = JSON.parse(body)
-                fs.writeFileSync('./pages/' + pageNo, JSON.stringify(body, null, 2))
+                fs.writeFileSync('./pages/json/' + pageNo, JSON.stringify(body, null, 2))
 
             } catch (err) {
                 console.error(err)
@@ -46,7 +46,8 @@ function getPages() {
 
         pagePromises.push(getPage);
 
-    });
+    }
+    //);
 
     Promise.all(pagePromises)
 }
@@ -55,7 +56,7 @@ function getPages() {
 function verifyFiles() {
 
     for (let i = 0; i < 605; i++) {
-        const path = 'pages/'+i
+        const path = 'pages/json/'+i
 
         try {
             if (!fs.existsSync(path)) {
