@@ -3,7 +3,7 @@ const stringify = require("csv-stringify");
 const rp = require("request-promise-native"),
     fs = require('fs'),
     _ = require('lodash'),
-    {convertArrayToCSV} = require('convert-array-to-csv'),
+    { convertArrayToCSV } = require('convert-array-to-csv'),
     QURAN_URL = 'https://api.quran.com/api/v4/verses/by_page/',
     QURAN_TOTAL_PAGES = 604,
     AUDIO_BASE_URL = "https://audio.qurancdn.com/",
@@ -79,38 +79,27 @@ function verifyFiles() {
 
 iteratePages()
 async function iteratePages() {
-    let pages = [],  pagePromises=[];
+    let pages = [], pagePromises = [];
     pages = await fs.promises.readdir(JSON_PATH, (err, files) => { return files })
 
     let flag = false
     pages.forEach(async function (page) {
         let csv = []
         //Trigger to stop after 1 file
-        if (page == "100") flag =true;  if(flag) return function(){}; 
+        //if (page == "100") flag =true;  if(flag) return function(){}; 
 
-       // let promise = new Promise ( (resolve, reject)=>{
-            let rawdata = fs.readFileSync(JSON_PATH + page);
-            let pageJson = JSON.parse(rawdata);
-            _.each(pageJson.verses, (verse) => {
-                _.each(verse.words, (word) => {
-                    word.audio_url && csv.push(
-                        ["'"+page+"'", "'"+word.text_uthmani+"'", "'"+word.translation.text+"'",
-                        "'"+AUDIO_BASE_URL + word.audio_url+"'","'"+ verse.text_uthmani+"'"]);
-                })
+        let rawdata = fs.readFileSync(JSON_PATH + page);
+        let pageJson = JSON.parse(rawdata);
+        _.each(pageJson.verses, (verse) => {
+            _.each(verse.words, (word) => {
+                word.audio_url && csv.push(
+                    ["'" + page + "'", "'" + word.text_uthmani + "'", "'" + word.translation.text + "'",
+                    "'" + AUDIO_BASE_URL + word.audio_url + "'", "'" + verse.text_uthmani + "'"]);
             })
-            let data = convertArrayToCSV(csv, { header: CSV_HEADER, separator: ',' })
-            await fs.promises.writeSync(CSV_PATH + page + ".csv", data)//.then(()=>{resolve(page)})
-
-        //})
-        
-        //pagePromises.push(promise)
+        })
+        let data = convertArrayToCSV(csv, { header: CSV_HEADER, separator: ',' })
+        await fs.promises.writeFile(CSV_PATH + page + ".csv", data)
     });
-
-
-    // Promise.all(pagePromises).then(result => {
-    //     console.log("Promises Done");
-    // })
-
 
 }
 /*
