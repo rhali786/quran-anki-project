@@ -1,0 +1,2284 @@
+{
+  "verses": [
+    {
+      "id": 664,
+      "verse_number": 171,
+      "verse_key": "4:171",
+      "juz_number": 6,
+      "hizb_number": 11,
+      "rub_number": 42,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۖ وَلَا تَقُولُوا۟ ثَلَـٰثَةٌ ۚ ٱنتَهُوا۟ خَيْرًا لَّكُمْ ۚ إِنَّمَا ٱللَّهُ إِلَـٰهٌ وَٰحِدٌ ۖ سُبْحَـٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ ۘ لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "words": [
+        {
+          "id": 82924,
+          "position": 1,
+          "audio_url": "wbw/004_171_001.mp3",
+          "char_type_name": "word",
+          "line_number": 1,
+          "text_uthmani": "يَـٰٓأَهْلَ",
+          "translation": {
+            "text": "O People",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yāahla",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82925,
+          "position": 2,
+          "audio_url": "wbw/004_171_002.mp3",
+          "char_type_name": "word",
+          "line_number": 1,
+          "text_uthmani": "ٱلْكِتَـٰبِ",
+          "translation": {
+            "text": "(of) the Book",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-kitābi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82926,
+          "position": 3,
+          "audio_url": "wbw/004_171_003.mp3",
+          "char_type_name": "word",
+          "line_number": 1,
+          "text_uthmani": "لَا",
+          "translation": {
+            "text": "(Do) not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82927,
+          "position": 4,
+          "audio_url": "wbw/004_171_004.mp3",
+          "char_type_name": "word",
+          "line_number": 1,
+          "text_uthmani": "تَغْلُوا۟",
+          "translation": {
+            "text": "commit excess",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "taghlū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82928,
+          "position": 5,
+          "audio_url": "wbw/004_171_005.mp3",
+          "char_type_name": "word",
+          "line_number": 1,
+          "text_uthmani": "فِى",
+          "translation": {
+            "text": "in",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82929,
+          "position": 6,
+          "audio_url": "wbw/004_171_006.mp3",
+          "char_type_name": "word",
+          "line_number": 1,
+          "text_uthmani": "دِينِكُمْ",
+          "translation": {
+            "text": "your religion",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "dīnikum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82930,
+          "position": 7,
+          "audio_url": "wbw/004_171_007.mp3",
+          "char_type_name": "word",
+          "line_number": 1,
+          "text_uthmani": "وَلَا",
+          "translation": {
+            "text": "and (do) not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "walā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82931,
+          "position": 8,
+          "audio_url": "wbw/004_171_008.mp3",
+          "char_type_name": "word",
+          "line_number": 1,
+          "text_uthmani": "تَقُولُوا۟",
+          "translation": {
+            "text": "say",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "taqūlū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82932,
+          "position": 9,
+          "audio_url": "wbw/004_171_009.mp3",
+          "char_type_name": "word",
+          "line_number": 2,
+          "text_uthmani": "عَلَى",
+          "translation": {
+            "text": "about",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿalā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82933,
+          "position": 10,
+          "audio_url": "wbw/004_171_010.mp3",
+          "char_type_name": "word",
+          "line_number": 2,
+          "text_uthmani": "ٱللَّهِ",
+          "translation": {
+            "text": "Allah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-lahi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82934,
+          "position": 11,
+          "audio_url": "wbw/004_171_011.mp3",
+          "char_type_name": "word",
+          "line_number": 2,
+          "text_uthmani": "إِلَّا",
+          "translation": {
+            "text": "except",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "illā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82935,
+          "position": 12,
+          "audio_url": "wbw/004_171_012.mp3",
+          "char_type_name": "word",
+          "line_number": 2,
+          "text_uthmani": "ٱلْحَقَّ ۚ",
+          "translation": {
+            "text": "the truth",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-ḥaqa",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82936,
+          "position": 13,
+          "audio_url": null,
+          "char_type_name": "pause",
+          "line_number": 2,
+          "text_uthmani": "",
+          "translation": {
+            "text": null,
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82937,
+          "position": 14,
+          "audio_url": "wbw/004_171_014.mp3",
+          "char_type_name": "word",
+          "line_number": 2,
+          "text_uthmani": "إِنَّمَا",
+          "translation": {
+            "text": "Only",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "innamā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82938,
+          "position": 15,
+          "audio_url": "wbw/004_171_015.mp3",
+          "char_type_name": "word",
+          "line_number": 2,
+          "text_uthmani": "ٱلْمَسِيحُ",
+          "translation": {
+            "text": "the Messiah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-masīḥu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82939,
+          "position": 16,
+          "audio_url": "wbw/004_171_016.mp3",
+          "char_type_name": "word",
+          "line_number": 2,
+          "text_uthmani": "عِيسَى",
+          "translation": {
+            "text": "Isa",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿīsā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82940,
+          "position": 17,
+          "audio_url": "wbw/004_171_017.mp3",
+          "char_type_name": "word",
+          "line_number": 2,
+          "text_uthmani": "ٱبْنُ",
+          "translation": {
+            "text": "son",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ub'nu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82941,
+          "position": 18,
+          "audio_url": "wbw/004_171_018.mp3",
+          "char_type_name": "word",
+          "line_number": 2,
+          "text_uthmani": "مَرْيَمَ",
+          "translation": {
+            "text": "(of) Maryam",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "maryama",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82942,
+          "position": 19,
+          "audio_url": "wbw/004_171_019.mp3",
+          "char_type_name": "word",
+          "line_number": 2,
+          "text_uthmani": "رَسُولُ",
+          "translation": {
+            "text": "(was) a Messenger",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "rasūlu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82943,
+          "position": 20,
+          "audio_url": "wbw/004_171_020.mp3",
+          "char_type_name": "word",
+          "line_number": 3,
+          "text_uthmani": "ٱللَّهِ",
+          "translation": {
+            "text": "(of) Allah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-lahi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82944,
+          "position": 21,
+          "audio_url": "wbw/004_171_021.mp3",
+          "char_type_name": "word",
+          "line_number": 3,
+          "text_uthmani": "وَكَلِمَتُهُۥٓ",
+          "translation": {
+            "text": "and His word",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wakalimatuhu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82945,
+          "position": 22,
+          "audio_url": "wbw/004_171_022.mp3",
+          "char_type_name": "word",
+          "line_number": 3,
+          "text_uthmani": "أَلْقَىٰهَآ",
+          "translation": {
+            "text": "which He conveyed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "alqāhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82946,
+          "position": 23,
+          "audio_url": "wbw/004_171_023.mp3",
+          "char_type_name": "word",
+          "line_number": 3,
+          "text_uthmani": "إِلَىٰ",
+          "translation": {
+            "text": "to",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ilā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82947,
+          "position": 24,
+          "audio_url": "wbw/004_171_024.mp3",
+          "char_type_name": "word",
+          "line_number": 3,
+          "text_uthmani": "مَرْيَمَ",
+          "translation": {
+            "text": "Maryam",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "maryama",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82948,
+          "position": 25,
+          "audio_url": "wbw/004_171_025.mp3",
+          "char_type_name": "word",
+          "line_number": 3,
+          "text_uthmani": "وَرُوحٌۭ",
+          "translation": {
+            "text": "and a spirit",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "warūḥun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82949,
+          "position": 26,
+          "audio_url": "wbw/004_171_026.mp3",
+          "char_type_name": "word",
+          "line_number": 3,
+          "text_uthmani": "مِّنْهُ ۖ",
+          "translation": {
+            "text": "from Him",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min'hu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82950,
+          "position": 27,
+          "audio_url": null,
+          "char_type_name": "pause",
+          "line_number": 3,
+          "text_uthmani": "",
+          "translation": {
+            "text": null,
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82951,
+          "position": 28,
+          "audio_url": "wbw/004_171_028.mp3",
+          "char_type_name": "word",
+          "line_number": 3,
+          "text_uthmani": "فَـَٔامِنُوا۟",
+          "translation": {
+            "text": "So believe",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "faāminū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82952,
+          "position": 29,
+          "audio_url": "wbw/004_171_029.mp3",
+          "char_type_name": "word",
+          "line_number": 3,
+          "text_uthmani": "بِٱللَّهِ",
+          "translation": {
+            "text": "in Allah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bil-lahi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82953,
+          "position": 30,
+          "audio_url": "wbw/004_171_030.mp3",
+          "char_type_name": "word",
+          "line_number": 4,
+          "text_uthmani": "وَرُسُلِهِۦ ۖ",
+          "translation": {
+            "text": "and His Messengers",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "warusulihi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82954,
+          "position": 31,
+          "audio_url": null,
+          "char_type_name": "pause",
+          "line_number": 4,
+          "text_uthmani": "",
+          "translation": {
+            "text": null,
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82955,
+          "position": 32,
+          "audio_url": "wbw/004_171_032.mp3",
+          "char_type_name": "word",
+          "line_number": 4,
+          "text_uthmani": "وَلَا",
+          "translation": {
+            "text": "And (do) not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "walā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82956,
+          "position": 33,
+          "audio_url": "wbw/004_171_033.mp3",
+          "char_type_name": "word",
+          "line_number": 4,
+          "text_uthmani": "تَقُولُوا۟",
+          "translation": {
+            "text": "say",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "taqūlū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82957,
+          "position": 34,
+          "audio_url": "wbw/004_171_034.mp3",
+          "char_type_name": "word",
+          "line_number": 4,
+          "text_uthmani": "ثَلَـٰثَةٌ ۚ",
+          "translation": {
+            "text": "Three",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "thalāthatun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82958,
+          "position": 35,
+          "audio_url": null,
+          "char_type_name": "pause",
+          "line_number": 4,
+          "text_uthmani": "",
+          "translation": {
+            "text": null,
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82959,
+          "position": 36,
+          "audio_url": "wbw/004_171_036.mp3",
+          "char_type_name": "word",
+          "line_number": 4,
+          "text_uthmani": "ٱنتَهُوا۟",
+          "translation": {
+            "text": "desist",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "intahū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82960,
+          "position": 37,
+          "audio_url": "wbw/004_171_037.mp3",
+          "char_type_name": "word",
+          "line_number": 4,
+          "text_uthmani": "خَيْرًۭا",
+          "translation": {
+            "text": "(it is) better",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "khayran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82961,
+          "position": 38,
+          "audio_url": "wbw/004_171_038.mp3",
+          "char_type_name": "word",
+          "line_number": 4,
+          "text_uthmani": "لَّكُمْ ۚ",
+          "translation": {
+            "text": "for you",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lakum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82962,
+          "position": 39,
+          "audio_url": null,
+          "char_type_name": "pause",
+          "line_number": 4,
+          "text_uthmani": "",
+          "translation": {
+            "text": null,
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82963,
+          "position": 40,
+          "audio_url": "wbw/004_171_040.mp3",
+          "char_type_name": "word",
+          "line_number": 4,
+          "text_uthmani": "إِنَّمَا",
+          "translation": {
+            "text": "Only",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "innamā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82964,
+          "position": 41,
+          "audio_url": "wbw/004_171_041.mp3",
+          "char_type_name": "word",
+          "line_number": 4,
+          "text_uthmani": "ٱللَّهُ",
+          "translation": {
+            "text": "Allah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-lahu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82965,
+          "position": 42,
+          "audio_url": "wbw/004_171_042.mp3",
+          "char_type_name": "word",
+          "line_number": 4,
+          "text_uthmani": "إِلَـٰهٌۭ",
+          "translation": {
+            "text": "(is) God",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ilāhun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82966,
+          "position": 43,
+          "audio_url": "wbw/004_171_043.mp3",
+          "char_type_name": "word",
+          "line_number": 5,
+          "text_uthmani": "وَٰحِدٌۭ ۖ",
+          "translation": {
+            "text": "One",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wāḥidun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82967,
+          "position": 44,
+          "audio_url": null,
+          "char_type_name": "pause",
+          "line_number": 5,
+          "text_uthmani": "",
+          "translation": {
+            "text": null,
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82968,
+          "position": 45,
+          "audio_url": "wbw/004_171_045.mp3",
+          "char_type_name": "word",
+          "line_number": 5,
+          "text_uthmani": "سُبْحَـٰنَهُۥٓ",
+          "translation": {
+            "text": "Glory be to Him",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "sub'ḥānahu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82969,
+          "position": 46,
+          "audio_url": "wbw/004_171_046.mp3",
+          "char_type_name": "word",
+          "line_number": 5,
+          "text_uthmani": "أَن",
+          "translation": {
+            "text": "That",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "an",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82970,
+          "position": 47,
+          "audio_url": "wbw/004_171_047.mp3",
+          "char_type_name": "word",
+          "line_number": 5,
+          "text_uthmani": "يَكُونَ",
+          "translation": {
+            "text": "He (should) have",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yakūna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82971,
+          "position": 48,
+          "audio_url": "wbw/004_171_048.mp3",
+          "char_type_name": "word",
+          "line_number": 5,
+          "text_uthmani": "لَهُۥ",
+          "translation": {
+            "text": "for Him",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lahu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82972,
+          "position": 49,
+          "audio_url": "wbw/004_171_049.mp3",
+          "char_type_name": "word",
+          "line_number": 5,
+          "text_uthmani": "وَلَدٌۭ ۘ",
+          "translation": {
+            "text": "a son",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "waladun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82973,
+          "position": 50,
+          "audio_url": null,
+          "char_type_name": "pause",
+          "line_number": 5,
+          "text_uthmani": "",
+          "translation": {
+            "text": null,
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82974,
+          "position": 51,
+          "audio_url": "wbw/004_171_051.mp3",
+          "char_type_name": "word",
+          "line_number": 5,
+          "text_uthmani": "لَّهُۥ",
+          "translation": {
+            "text": "To Him (belongs)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lahu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82975,
+          "position": 52,
+          "audio_url": "wbw/004_171_052.mp3",
+          "char_type_name": "word",
+          "line_number": 5,
+          "text_uthmani": "مَا",
+          "translation": {
+            "text": "whatever",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82976,
+          "position": 53,
+          "audio_url": "wbw/004_171_053.mp3",
+          "char_type_name": "word",
+          "line_number": 5,
+          "text_uthmani": "فِى",
+          "translation": {
+            "text": "(is) in",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82977,
+          "position": 54,
+          "audio_url": "wbw/004_171_054.mp3",
+          "char_type_name": "word",
+          "line_number": 5,
+          "text_uthmani": "ٱلسَّمَـٰوَٰتِ",
+          "translation": {
+            "text": "the heavens",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-samāwāti",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82978,
+          "position": 55,
+          "audio_url": "wbw/004_171_055.mp3",
+          "char_type_name": "word",
+          "line_number": 6,
+          "text_uthmani": "وَمَا",
+          "translation": {
+            "text": "and whatever",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wamā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82979,
+          "position": 56,
+          "audio_url": "wbw/004_171_056.mp3",
+          "char_type_name": "word",
+          "line_number": 6,
+          "text_uthmani": "فِى",
+          "translation": {
+            "text": "(is) in",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82980,
+          "position": 57,
+          "audio_url": "wbw/004_171_057.mp3",
+          "char_type_name": "word",
+          "line_number": 6,
+          "text_uthmani": "ٱلْأَرْضِ ۗ",
+          "translation": {
+            "text": "the earth",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-arḍi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82981,
+          "position": 58,
+          "audio_url": null,
+          "char_type_name": "pause",
+          "line_number": 6,
+          "text_uthmani": "",
+          "translation": {
+            "text": null,
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82982,
+          "position": 59,
+          "audio_url": "wbw/004_171_059.mp3",
+          "char_type_name": "word",
+          "line_number": 6,
+          "text_uthmani": "وَكَفَىٰ",
+          "translation": {
+            "text": "And is sufficient",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wakafā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82983,
+          "position": 60,
+          "audio_url": "wbw/004_171_060.mp3",
+          "char_type_name": "word",
+          "line_number": 6,
+          "text_uthmani": "بِٱللَّهِ",
+          "translation": {
+            "text": "Allah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bil-lahi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82984,
+          "position": 61,
+          "audio_url": "wbw/004_171_061.mp3",
+          "char_type_name": "word",
+          "line_number": 6,
+          "text_uthmani": "وَكِيلًۭا",
+          "translation": {
+            "text": "(as) a Disposer of affairs",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wakīlan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 82985,
+          "position": 62,
+          "audio_url": null,
+          "char_type_name": "end",
+          "line_number": 6,
+          "text_uthmani": "١٧١",
+          "translation": {
+            "text": "Ayah 171",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ]
+    },
+    {
+      "id": 665,
+      "verse_number": 172,
+      "verse_key": "4:172",
+      "juz_number": 6,
+      "hizb_number": 11,
+      "rub_number": 42,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text_uthmani": "لَّن يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّهِ وَلَا ٱلْمَلَـٰٓئِكَةُ ٱلْمُقَرَّبُونَ ۚ وَمَن يَسْتَنكِفْ عَنْ عِبَادَتِهِۦ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا",
+      "words": [
+        {
+          "id": 83096,
+          "position": 1,
+          "audio_url": "wbw/004_172_001.mp3",
+          "char_type_name": "word",
+          "line_number": 6,
+          "text_uthmani": "لَّن",
+          "translation": {
+            "text": "Never",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83097,
+          "position": 2,
+          "audio_url": "wbw/004_172_002.mp3",
+          "char_type_name": "word",
+          "line_number": 6,
+          "text_uthmani": "يَسْتَنكِفَ",
+          "translation": {
+            "text": "will disdain",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yastankifa",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83098,
+          "position": 3,
+          "audio_url": "wbw/004_172_003.mp3",
+          "char_type_name": "word",
+          "line_number": 7,
+          "text_uthmani": "ٱلْمَسِيحُ",
+          "translation": {
+            "text": "the Messiah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-masīḥu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83099,
+          "position": 4,
+          "audio_url": "wbw/004_172_004.mp3",
+          "char_type_name": "word",
+          "line_number": 7,
+          "text_uthmani": "أَن",
+          "translation": {
+            "text": "to",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "an",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83100,
+          "position": 5,
+          "audio_url": "wbw/004_172_005.mp3",
+          "char_type_name": "word",
+          "line_number": 7,
+          "text_uthmani": "يَكُونَ",
+          "translation": {
+            "text": "be",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yakūna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83101,
+          "position": 6,
+          "audio_url": "wbw/004_172_006.mp3",
+          "char_type_name": "word",
+          "line_number": 7,
+          "text_uthmani": "عَبْدًۭا",
+          "translation": {
+            "text": "a slave",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿabdan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83102,
+          "position": 7,
+          "audio_url": "wbw/004_172_007.mp3",
+          "char_type_name": "word",
+          "line_number": 7,
+          "text_uthmani": "لِّلَّهِ",
+          "translation": {
+            "text": "of Allah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lillahi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83103,
+          "position": 8,
+          "audio_url": "wbw/004_172_008.mp3",
+          "char_type_name": "word",
+          "line_number": 7,
+          "text_uthmani": "وَلَا",
+          "translation": {
+            "text": "and not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "walā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83104,
+          "position": 9,
+          "audio_url": "wbw/004_172_009.mp3",
+          "char_type_name": "word",
+          "line_number": 7,
+          "text_uthmani": "ٱلْمَلَـٰٓئِكَةُ",
+          "translation": {
+            "text": "the Angels",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-malāikatu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83105,
+          "position": 10,
+          "audio_url": "wbw/004_172_010.mp3",
+          "char_type_name": "word",
+          "line_number": 7,
+          "text_uthmani": "ٱلْمُقَرَّبُونَ ۚ",
+          "translation": {
+            "text": "the ones who are near (to Allah)",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-muqarabūna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83106,
+          "position": 11,
+          "audio_url": null,
+          "char_type_name": "pause",
+          "line_number": 7,
+          "text_uthmani": "",
+          "translation": {
+            "text": null,
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83107,
+          "position": 12,
+          "audio_url": "wbw/004_172_012.mp3",
+          "char_type_name": "word",
+          "line_number": 8,
+          "text_uthmani": "وَمَن",
+          "translation": {
+            "text": "And whoever",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "waman",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83108,
+          "position": 13,
+          "audio_url": "wbw/004_172_013.mp3",
+          "char_type_name": "word",
+          "line_number": 8,
+          "text_uthmani": "يَسْتَنكِفْ",
+          "translation": {
+            "text": "disdains",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yastankif",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83109,
+          "position": 14,
+          "audio_url": "wbw/004_172_014.mp3",
+          "char_type_name": "word",
+          "line_number": 8,
+          "text_uthmani": "عَنْ",
+          "translation": {
+            "text": "from",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83110,
+          "position": 15,
+          "audio_url": "wbw/004_172_015.mp3",
+          "char_type_name": "word",
+          "line_number": 8,
+          "text_uthmani": "عِبَادَتِهِۦ",
+          "translation": {
+            "text": "His worship",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿibādatihi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83111,
+          "position": 16,
+          "audio_url": "wbw/004_172_016.mp3",
+          "char_type_name": "word",
+          "line_number": 8,
+          "text_uthmani": "وَيَسْتَكْبِرْ",
+          "translation": {
+            "text": "and is arrogant",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wayastakbir",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83112,
+          "position": 17,
+          "audio_url": "wbw/004_172_017.mp3",
+          "char_type_name": "word",
+          "line_number": 8,
+          "text_uthmani": "فَسَيَحْشُرُهُمْ",
+          "translation": {
+            "text": "then He will gather them",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fasayaḥshuruhum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83113,
+          "position": 18,
+          "audio_url": "wbw/004_172_018.mp3",
+          "char_type_name": "word",
+          "line_number": 9,
+          "text_uthmani": "إِلَيْهِ",
+          "translation": {
+            "text": "towards Him",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ilayhi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83114,
+          "position": 19,
+          "audio_url": "wbw/004_172_019.mp3",
+          "char_type_name": "word",
+          "line_number": 9,
+          "text_uthmani": "جَمِيعًۭا",
+          "translation": {
+            "text": "all together",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "jamīʿan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83115,
+          "position": 20,
+          "audio_url": null,
+          "char_type_name": "end",
+          "line_number": 9,
+          "text_uthmani": "١٧٢",
+          "translation": {
+            "text": "Ayah 172",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ]
+    },
+    {
+      "id": 666,
+      "verse_number": 173,
+      "verse_key": "4:173",
+      "juz_number": 6,
+      "hizb_number": 11,
+      "rub_number": 42,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۖ وَأَمَّا ٱلَّذِينَ ٱسْتَنكَفُوا۟ وَٱسْتَكْبَرُوا۟ فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "words": [
+        {
+          "id": 83161,
+          "position": 1,
+          "audio_url": "wbw/004_173_001.mp3",
+          "char_type_name": "word",
+          "line_number": 9,
+          "text_uthmani": "فَأَمَّا",
+          "translation": {
+            "text": "Then as for",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fa-ammā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83162,
+          "position": 2,
+          "audio_url": "wbw/004_173_002.mp3",
+          "char_type_name": "word",
+          "line_number": 9,
+          "text_uthmani": "ٱلَّذِينَ",
+          "translation": {
+            "text": "those who",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "alladhīna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83163,
+          "position": 3,
+          "audio_url": "wbw/004_173_003.mp3",
+          "char_type_name": "word",
+          "line_number": 9,
+          "text_uthmani": "ءَامَنُوا۟",
+          "translation": {
+            "text": "believed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "āmanū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83164,
+          "position": 4,
+          "audio_url": "wbw/004_173_004.mp3",
+          "char_type_name": "word",
+          "line_number": 9,
+          "text_uthmani": "وَعَمِلُوا۟",
+          "translation": {
+            "text": "and did",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "waʿamilū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83165,
+          "position": 5,
+          "audio_url": "wbw/004_173_005.mp3",
+          "char_type_name": "word",
+          "line_number": 9,
+          "text_uthmani": "ٱلصَّـٰلِحَـٰتِ",
+          "translation": {
+            "text": "the righteous deeds",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-ṣāliḥāti",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83166,
+          "position": 6,
+          "audio_url": "wbw/004_173_006.mp3",
+          "char_type_name": "word",
+          "line_number": 10,
+          "text_uthmani": "فَيُوَفِّيهِمْ",
+          "translation": {
+            "text": "then He will give them in full",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fayuwaffīhim",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83167,
+          "position": 7,
+          "audio_url": "wbw/004_173_007.mp3",
+          "char_type_name": "word",
+          "line_number": 10,
+          "text_uthmani": "أُجُورَهُمْ",
+          "translation": {
+            "text": "their reward",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ujūrahum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83168,
+          "position": 8,
+          "audio_url": "wbw/004_173_008.mp3",
+          "char_type_name": "word",
+          "line_number": 10,
+          "text_uthmani": "وَيَزِيدُهُم",
+          "translation": {
+            "text": "and give them more",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wayazīduhum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83169,
+          "position": 9,
+          "audio_url": "wbw/004_173_009.mp3",
+          "char_type_name": "word",
+          "line_number": 10,
+          "text_uthmani": "مِّن",
+          "translation": {
+            "text": "from",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83170,
+          "position": 10,
+          "audio_url": "wbw/004_173_010.mp3",
+          "char_type_name": "word",
+          "line_number": 10,
+          "text_uthmani": "فَضْلِهِۦ ۖ",
+          "translation": {
+            "text": "His Bounty",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "faḍlihi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83171,
+          "position": 11,
+          "audio_url": null,
+          "char_type_name": "pause",
+          "line_number": 10,
+          "text_uthmani": "",
+          "translation": {
+            "text": null,
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83172,
+          "position": 12,
+          "audio_url": "wbw/004_173_012.mp3",
+          "char_type_name": "word",
+          "line_number": 10,
+          "text_uthmani": "وَأَمَّا",
+          "translation": {
+            "text": "And as for",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-ammā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83173,
+          "position": 13,
+          "audio_url": "wbw/004_173_013.mp3",
+          "char_type_name": "word",
+          "line_number": 10,
+          "text_uthmani": "ٱلَّذِينَ",
+          "translation": {
+            "text": "those who",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "alladhīna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83174,
+          "position": 14,
+          "audio_url": "wbw/004_173_014.mp3",
+          "char_type_name": "word",
+          "line_number": 11,
+          "text_uthmani": "ٱسْتَنكَفُوا۟",
+          "translation": {
+            "text": "disdained",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "is'tankafū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83175,
+          "position": 15,
+          "audio_url": "wbw/004_173_015.mp3",
+          "char_type_name": "word",
+          "line_number": 11,
+          "text_uthmani": "وَٱسْتَكْبَرُوا۟",
+          "translation": {
+            "text": "and were arrogant",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-is'takbarū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83176,
+          "position": 16,
+          "audio_url": "wbw/004_173_016.mp3",
+          "char_type_name": "word",
+          "line_number": 11,
+          "text_uthmani": "فَيُعَذِّبُهُمْ",
+          "translation": {
+            "text": "then He will punish them",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fayuʿadhibuhum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83177,
+          "position": 17,
+          "audio_url": "wbw/004_173_017.mp3",
+          "char_type_name": "word",
+          "line_number": 11,
+          "text_uthmani": "عَذَابًا",
+          "translation": {
+            "text": "(with) a punishment",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ʿadhāban",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83178,
+          "position": 18,
+          "audio_url": "wbw/004_173_018.mp3",
+          "char_type_name": "word",
+          "line_number": 11,
+          "text_uthmani": "أَلِيمًۭا",
+          "translation": {
+            "text": "painful",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "alīman",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83179,
+          "position": 19,
+          "audio_url": "wbw/004_173_019.mp3",
+          "char_type_name": "word",
+          "line_number": 11,
+          "text_uthmani": "وَلَا",
+          "translation": {
+            "text": "and not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "walā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83180,
+          "position": 20,
+          "audio_url": "wbw/004_173_020.mp3",
+          "char_type_name": "word",
+          "line_number": 12,
+          "text_uthmani": "يَجِدُونَ",
+          "translation": {
+            "text": "will they find",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yajidūna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83181,
+          "position": 21,
+          "audio_url": "wbw/004_173_021.mp3",
+          "char_type_name": "word",
+          "line_number": 12,
+          "text_uthmani": "لَهُم",
+          "translation": {
+            "text": "for themselves",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "lahum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83182,
+          "position": 22,
+          "audio_url": "wbw/004_173_022.mp3",
+          "char_type_name": "word",
+          "line_number": 12,
+          "text_uthmani": "مِّن",
+          "translation": {
+            "text": "from",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83183,
+          "position": 23,
+          "audio_url": "wbw/004_173_023.mp3",
+          "char_type_name": "word",
+          "line_number": 12,
+          "text_uthmani": "دُونِ",
+          "translation": {
+            "text": "besides",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "dūni",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83184,
+          "position": 24,
+          "audio_url": "wbw/004_173_024.mp3",
+          "char_type_name": "word",
+          "line_number": 12,
+          "text_uthmani": "ٱللَّهِ",
+          "translation": {
+            "text": "Allah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-lahi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83185,
+          "position": 25,
+          "audio_url": "wbw/004_173_025.mp3",
+          "char_type_name": "word",
+          "line_number": 12,
+          "text_uthmani": "وَلِيًّۭا",
+          "translation": {
+            "text": "any protector",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "waliyyan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83186,
+          "position": 26,
+          "audio_url": "wbw/004_173_026.mp3",
+          "char_type_name": "word",
+          "line_number": 12,
+          "text_uthmani": "وَلَا",
+          "translation": {
+            "text": "and not",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "walā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83187,
+          "position": 27,
+          "audio_url": "wbw/004_173_027.mp3",
+          "char_type_name": "word",
+          "line_number": 12,
+          "text_uthmani": "نَصِيرًۭا",
+          "translation": {
+            "text": "any helper",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "naṣīran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83188,
+          "position": 28,
+          "audio_url": null,
+          "char_type_name": "end",
+          "line_number": 12,
+          "text_uthmani": "١٧٣",
+          "translation": {
+            "text": "Ayah 173",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ]
+    },
+    {
+      "id": 667,
+      "verse_number": 174,
+      "verse_key": "4:174",
+      "juz_number": 6,
+      "hizb_number": 11,
+      "rub_number": 42,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُم بُرْهَـٰنٌ مِّن رَّبِّكُمْ وَأَنزَلْنَآ إِلَيْكُمْ نُورًا مُّبِينًا",
+      "words": [
+        {
+          "id": 83226,
+          "position": 1,
+          "audio_url": "wbw/004_174_001.mp3",
+          "char_type_name": "word",
+          "line_number": 12,
+          "text_uthmani": "يَـٰٓأَيُّهَا",
+          "translation": {
+            "text": "O",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "yāayyuhā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83227,
+          "position": 2,
+          "audio_url": "wbw/004_174_002.mp3",
+          "char_type_name": "word",
+          "line_number": 12,
+          "text_uthmani": "ٱلنَّاسُ",
+          "translation": {
+            "text": "mankind",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "l-nāsu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83228,
+          "position": 3,
+          "audio_url": "wbw/004_174_003.mp3",
+          "char_type_name": "word",
+          "line_number": 13,
+          "text_uthmani": "قَدْ",
+          "translation": {
+            "text": "Surely",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "qad",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83229,
+          "position": 4,
+          "audio_url": "wbw/004_174_004.mp3",
+          "char_type_name": "word",
+          "line_number": 13,
+          "text_uthmani": "جَآءَكُم",
+          "translation": {
+            "text": "has come to you",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "jāakum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83230,
+          "position": 5,
+          "audio_url": "wbw/004_174_005.mp3",
+          "char_type_name": "word",
+          "line_number": 13,
+          "text_uthmani": "بُرْهَـٰنٌۭ",
+          "translation": {
+            "text": "a convincing proof",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bur'hānun",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83231,
+          "position": 6,
+          "audio_url": "wbw/004_174_006.mp3",
+          "char_type_name": "word",
+          "line_number": 13,
+          "text_uthmani": "مِّن",
+          "translation": {
+            "text": "from",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83232,
+          "position": 7,
+          "audio_url": "wbw/004_174_007.mp3",
+          "char_type_name": "word",
+          "line_number": 13,
+          "text_uthmani": "رَّبِّكُمْ",
+          "translation": {
+            "text": "your Lord",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "rabbikum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83233,
+          "position": 8,
+          "audio_url": "wbw/004_174_008.mp3",
+          "char_type_name": "word",
+          "line_number": 13,
+          "text_uthmani": "وَأَنزَلْنَآ",
+          "translation": {
+            "text": "and We (have) sent down",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-anzalnā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83234,
+          "position": 9,
+          "audio_url": "wbw/004_174_009.mp3",
+          "char_type_name": "word",
+          "line_number": 13,
+          "text_uthmani": "إِلَيْكُمْ",
+          "translation": {
+            "text": "to you",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ilaykum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83235,
+          "position": 10,
+          "audio_url": "wbw/004_174_010.mp3",
+          "char_type_name": "word",
+          "line_number": 13,
+          "text_uthmani": "نُورًۭا",
+          "translation": {
+            "text": "a light",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "nūran",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83236,
+          "position": 11,
+          "audio_url": "wbw/004_174_011.mp3",
+          "char_type_name": "word",
+          "line_number": 13,
+          "text_uthmani": "مُّبِينًۭا",
+          "translation": {
+            "text": "clear",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mubīnan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83237,
+          "position": 12,
+          "audio_url": null,
+          "char_type_name": "end",
+          "line_number": 13,
+          "text_uthmani": "١٧٤",
+          "translation": {
+            "text": "Ayah 174",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ]
+    },
+    {
+      "id": 668,
+      "verse_number": 175,
+      "verse_key": "4:175",
+      "juz_number": 6,
+      "hizb_number": 11,
+      "rub_number": 42,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًا مُّسْتَقِيمًا",
+      "words": [
+        {
+          "id": 83350,
+          "position": 1,
+          "audio_url": "wbw/004_175_001.mp3",
+          "char_type_name": "word",
+          "line_number": 14,
+          "text_uthmani": "فَأَمَّا",
+          "translation": {
+            "text": "So as for",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fa-ammā",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83351,
+          "position": 2,
+          "audio_url": "wbw/004_175_002.mp3",
+          "char_type_name": "word",
+          "line_number": 14,
+          "text_uthmani": "ٱلَّذِينَ",
+          "translation": {
+            "text": "those who",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "alladhīna",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83352,
+          "position": 3,
+          "audio_url": "wbw/004_175_003.mp3",
+          "char_type_name": "word",
+          "line_number": 14,
+          "text_uthmani": "ءَامَنُوا۟",
+          "translation": {
+            "text": "believed",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "āmanū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83353,
+          "position": 4,
+          "audio_url": "wbw/004_175_004.mp3",
+          "char_type_name": "word",
+          "line_number": 14,
+          "text_uthmani": "بِٱللَّهِ",
+          "translation": {
+            "text": "in Allah",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bil-lahi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83354,
+          "position": 5,
+          "audio_url": "wbw/004_175_005.mp3",
+          "char_type_name": "word",
+          "line_number": 14,
+          "text_uthmani": "وَٱعْتَصَمُوا۟",
+          "translation": {
+            "text": "and held fast",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wa-iʿ'taṣamū",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83355,
+          "position": 6,
+          "audio_url": "wbw/004_175_006.mp3",
+          "char_type_name": "word",
+          "line_number": 14,
+          "text_uthmani": "بِهِۦ",
+          "translation": {
+            "text": "to Him",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "bihi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83356,
+          "position": 7,
+          "audio_url": "wbw/004_175_007.mp3",
+          "char_type_name": "word",
+          "line_number": 14,
+          "text_uthmani": "فَسَيُدْخِلُهُمْ",
+          "translation": {
+            "text": "then He will admit them",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fasayud'khiluhum",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83357,
+          "position": 8,
+          "audio_url": "wbw/004_175_008.mp3",
+          "char_type_name": "word",
+          "line_number": 15,
+          "text_uthmani": "فِى",
+          "translation": {
+            "text": "in",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "fī",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83358,
+          "position": 9,
+          "audio_url": "wbw/004_175_009.mp3",
+          "char_type_name": "word",
+          "line_number": 15,
+          "text_uthmani": "رَحْمَةٍۢ",
+          "translation": {
+            "text": "Mercy",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "raḥmatin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83359,
+          "position": 10,
+          "audio_url": "wbw/004_175_010.mp3",
+          "char_type_name": "word",
+          "line_number": 15,
+          "text_uthmani": "مِّنْهُ",
+          "translation": {
+            "text": "from Himself",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "min'hu",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83360,
+          "position": 11,
+          "audio_url": "wbw/004_175_011.mp3",
+          "char_type_name": "word",
+          "line_number": 15,
+          "text_uthmani": "وَفَضْلٍۢ",
+          "translation": {
+            "text": "and Bounty",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wafaḍlin",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83361,
+          "position": 12,
+          "audio_url": "wbw/004_175_012.mp3",
+          "char_type_name": "word",
+          "line_number": 15,
+          "text_uthmani": "وَيَهْدِيهِمْ",
+          "translation": {
+            "text": "and will guide them",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "wayahdīhim",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83362,
+          "position": 13,
+          "audio_url": "wbw/004_175_013.mp3",
+          "char_type_name": "word",
+          "line_number": 15,
+          "text_uthmani": "إِلَيْهِ",
+          "translation": {
+            "text": "to Himself",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ilayhi",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83363,
+          "position": 14,
+          "audio_url": "wbw/004_175_014.mp3",
+          "char_type_name": "word",
+          "line_number": 15,
+          "text_uthmani": "صِرَٰطًۭا",
+          "translation": {
+            "text": "(on) a way",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "ṣirāṭan",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83364,
+          "position": 15,
+          "audio_url": "wbw/004_175_015.mp3",
+          "char_type_name": "word",
+          "line_number": 15,
+          "text_uthmani": "مُّسْتَقِيمًۭا",
+          "translation": {
+            "text": "straight",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": "mus'taqīman",
+            "language_name": "english"
+          }
+        },
+        {
+          "id": 83365,
+          "position": 16,
+          "audio_url": null,
+          "char_type_name": "end",
+          "line_number": 15,
+          "text_uthmani": "١٧٥",
+          "translation": {
+            "text": "Ayah 175",
+            "language_name": "english"
+          },
+          "transliteration": {
+            "text": null,
+            "language_name": "english"
+          }
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 50,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 5
+  }
+}
