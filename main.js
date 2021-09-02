@@ -82,15 +82,18 @@ async function iteratePages() {
     let pages = [], pagePromises = [];
     pages = await fs.promises.readdir(JSON_PATH, (err, files) => { return files })
 
-    let flag = false
+    //let flag = false
     pages.forEach(async function (page) {
         let csv = []
         //Trigger to stop after 1 file
         //if (page == "100") flag =true;  if(flag) return function(){}; 
 
         let rawdata = fs.readFileSync(JSON_PATH + page);
-        let pageJson = JSON.parse(rawdata);
+        let pageJson = JSON.parse(rawdata), juz, hizb, rub, first=true;
         _.each(pageJson.verses, (verse) => {
+            if(first)
+                juz = verse.juz_number; hizb = verse.hizb_number; rub = verse.rub_number;first=false;
+
             _.each(verse.words, (word) => {
                 word.audio_url && csv.push(
                     ["'" + page + "'", "'" + word.text_uthmani + "'", "'" + word.translation.text + "'",
@@ -98,7 +101,7 @@ async function iteratePages() {
             })
         })
         let data = convertArrayToCSV(csv, { header: CSV_HEADER, separator: ',' })
-        await fs.promises.writeFile(CSV_PATH + page + ".csv", data)
+        await fs.promises.writeFile(CSV_PATH +"Page_"+ page +"_Juz_"+ juz +"_Hizb_"+ hizb +"_Rub_"+ rub + ".csv", data)
     });
 
 }
