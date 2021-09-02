@@ -87,14 +87,14 @@ for filename in os.listdir(directory):
 
             anki_deck = genanki.Deck(model_id, anki_deck_title)
             anki_package = genanki.Package(anki_deck)
-            anki_package.media_files = audio_files
+#            anki_package.media_files = audio_files
         
             # Add flashcards to the deck
             for anki_note in anki_notes:
                 anki_deck.add_note(anki_note)
 
             # Save the deck to a file
-#            anki_package.write_to_file("decks/"+ deck_filename)
+            anki_package.write_to_file("decks/"+ deck_filename)
 
 
         print("%s : Created %s with %d flashcards and %d new / %d total Audio Files"% (datetime.datetime.now() - current_time,deck_filename, len(anki_deck.notes),audio_count, len(audio_files)))
