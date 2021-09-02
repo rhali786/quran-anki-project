@@ -90,12 +90,16 @@ async function iteratePages() {
 
         let rawdata = fs.readFileSync(JSON_PATH + page);
         let pageJson = JSON.parse(rawdata), juz, hizb, rub, first=true;
+        let uniqueWords = []
         _.each(pageJson.verses, (verse) => {
             if(first)
                 juz = verse.juz_number; hizb = verse.hizb_number; rub = verse.rub_number;first=false;
 
             _.each(verse.words, (word) => {
-                word.audio_url && csv.push(
+                if(uniqueWords.includes(word.text_uthmani))
+                    return;
+                uniqueWords.push(word.text_uthmani)
+                word.audio_url && csv.push( //words without audio are signs for end of ayahs
                     ["'" + page + "'", "'" + word.text_uthmani + "'", "'" + word.translation.text + "'",
                     "'" + AUDIO_BASE_URL + word.audio_url + "'", "'" + verse.text_uthmani + "'"]);
             })
